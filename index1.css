@@ -1,0 +1,89 @@
+*{margin: 0;padding: 0;}
+body{
+    background: #ebebeb ;
+    background-size: cover;
+}
+.block_login{
+    display: block;
+    width: 550px;
+    height: auto;
+    background: #fff;
+    border: 1px solid rgb(245, 240, 240);
+    box-shadow: 0 0 10px 0 #666;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 15px;
+}
+
+.block_titulo{
+    width: 535px;
+    height: 50px;
+    background: #09d;
+    line-height: 50px;
+    padding-left: 15px;
+    font-size: 22px;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 15px 15px 0 0;
+    border-bottom: 2px solid orange;
+}
+.block_center{
+    width: 520px;
+    height: auto;
+    background: #fff;
+    padding: 25px 15px 15px 15px;
+}
+.block_center label{
+    width: 90%;
+    font-size: 20px;
+    font-weight: bold;
+    color: #666;
+    margin: 10px;
+    
+}
+.block_center input{
+    width: 60%;
+    padding: 5px 10px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #666;
+    border: 1px solid #333;
+    margin: 10px;
+    
+}
+.block_center img{
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin: 5px;
+}
+.block_rodape{
+    width: 535px;
+    height: 50px;
+    background: #09d;
+    line-height: 50px;
+    padding-left: 15px;
+    font-size: 22px;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 0 0 15px 15px ;
+    border-top: 2px solid orange;
+}
+
+.block_rodape input{
+    width: 200px;
+    height: 35px;
+    line-height: 35px;
+    float: right;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-top: 8px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.block_rodape input:hover{
+    color: #fff;
+    background: orange;
+    font-weight: bold;
+}

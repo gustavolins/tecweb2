@@ -1,0 +1,64 @@
+#draggable {
+    width: 100px;
+    height: 100px;
+    padding: 0.5em;
+    float: left;
+    margin: 10px 10px 10px 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#verde {
+    width: 300px;
+    height: 190px;
+    padding: 0.5em;
+    float: left;
+    margin: auto;
+    margin-left: 100px;
+    background-color: chartreuse;
+    border-radius: 15px; 
+    text-align: center;
+}
+
+#amarelo {
+    width: 300px;
+    height: 190px;
+    padding: 0.5em;
+    float: left;
+    margin: auto;
+    margin-left: 100px;
+    background-color: gold;
+    border-radius: 15px; 
+    text-align: center;
+}
+
+#vermelho {
+    width: 300px;
+    height: 190px;
+    padding: 0.5em;
+    float: left;
+    margin: auto;
+    margin-left: 100px;
+    background-color: crimson;
+    border-radius: 15px; 
+    text-align: center;
+}
+.jumbotron{
+    background-image: url(fundo.jpg) ;
+
+}
+.container{
+    position: relative;
+    top:10px;
+    left:170px;
+    
+}
+.display-3{
+    position: relative;
+    top:10px;
+    left:220px;
+}
+p,h1 { 
+    font-family: 'Aldrich', sans-serif;
+    
+
+}
